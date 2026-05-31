@@ -35,7 +35,7 @@ class QuoteContent extends StatelessWidget {
             Container(
               height: 2.0,
               width: 24.0,
-              color: Colors.white50,
+              color: Colors.white54,
             ),
             const SizedBox(width: 8.0),
             Text(
